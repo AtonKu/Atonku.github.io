@@ -12,13 +12,13 @@ docs-en:
   - title:      Start
     children:
       - title:  Quick Start
-        url:    
+        url:    /_posts/2021-03-29-JVM1
       - title:  Structure
-        url:    
+        url:    /_posts/2021-03-29-JVM1
       ...
   - title:      Customization
     children:
       - title:  Configuration
-        url:    
+        url:    /_posts/2021-03-29-JVM1
       - title:  Navigation
-        url:    
+        url:    /_posts/2021-03-29-JVM1
